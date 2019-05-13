@@ -11,9 +11,7 @@ h1{
   background-position: center;
   /* background-color: black; */
 }
-.card-header{
-  color: crimson;
-}
+
 .card{
   background-image: url(../images/dices.jpeg);
  background-size: cover;
@@ -34,4 +32,8 @@ h3{
 }
 .click{
   font-family: 'Press Start 2P', cursive;
+}
+.card-header{
+  font-family: 'Fredericka the Great', cursive;
+  color: cornsilk
 }
