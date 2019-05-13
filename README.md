@@ -11,13 +11,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 Internet connection
 
-```
-safaricom
-telcom
-you
-orange
 
-```
+* safaricom
+* telcom
+* you
+* orange
+
 
 ### Installing
 no installation needed
