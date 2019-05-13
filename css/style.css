@@ -16,10 +16,13 @@ h1{
 }
 .card{
   background-image: url(../images/dices.jpeg);
- background-size: cover
+ background-size: cover;
 }
 .pig{
   width: 100vw;
   height:100vh;
   background-color: white;
+}
+p{
+  color: aqua;
 }
