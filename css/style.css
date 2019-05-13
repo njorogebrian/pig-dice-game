@@ -41,3 +41,6 @@ h3{
 .card .one{
   margin-top: 80px;
 }
+#btn,#btn1,#btn2,#btn3{
+  background-color: darkred;
+}
