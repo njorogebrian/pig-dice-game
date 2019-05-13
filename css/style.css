@@ -5,12 +5,21 @@ h1{
   color: #CD53AC;
 }
 .text-center{
-  /* background-image: url(../images/dice.jpeg); */
+  background-image: url(../images/cosmos.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  background-color: black;
+  /* background-color: black; */
 }
 .card-header{
   color: crimson;
+}
+.card{
+  background-image: url(../images/dices.jpeg);
+ background-size: cover
+}
+.pig{
+  width: 100vw;
+  height:100vh;
+  background-color: white;
 }
