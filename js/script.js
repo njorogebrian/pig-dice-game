@@ -20,5 +20,13 @@ $(document).ready(function(event){
                 one+=numbers;
                 $("#cum1").text(one);
             }
-        })
-    })
+        });
+        $("#btn1").click(function(){
+            two+=one;
+            $("#cum1").text(two)
+            $("#btn").hide();
+        });
+        $("btn").click(function(){
+            var numbers 
+        }
+      });
