@@ -27,6 +27,17 @@ $(document).ready(function(event){
             $("#btn").hide();
         });
         $("btn").click(function(){
-            var numbers 
+            var number2 = Math.floor(Math.random()*6)+1;
+            if( number2 ===1){
+                alert("you've rolled one")
+                three=0;
+                three+= four;
+                $("#cum2").text(three);
+            }
+            else{
+                $("#ini2").text(number2)
+                one+=number2;
+                $("#cum2").text(three);
         }
       });
+    });
