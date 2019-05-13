@@ -26,3 +26,12 @@ h1{
 p{
   color: aqua;
 }
+h3{
+  font-family: 'Press Start 2P', cursive;
+}
+#para{
+  display: none;
+}
+.click{
+  font-family: 'Press Start 2P', cursive;
+}

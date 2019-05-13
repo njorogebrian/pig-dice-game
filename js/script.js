@@ -40,4 +40,7 @@ $(document).ready(function(event){
                 $("#cum2").text(three);
         }
       });
+      $("#para2").click(function(){
+          $("#para").toggle();
+      });
     });
