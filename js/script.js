@@ -16,7 +16,7 @@ $(document).ready(function(event){
                 $("#cum1").text(two);
             }
             else{
-                $("#ini1").text(numbers)
+                $("#ini1").text(numbers);
                 one+=numbers;
                 $("#cum1").text(one);
             }
@@ -26,16 +26,16 @@ $(document).ready(function(event){
             $("#cum1").text(two)
             $("#btn").hide();
         });
-        $("btn").click(function(){
+        $("btn2").click(function(){
             var number2 = Math.floor(Math.random()*6)+1;
             if( number2 ===1){
                 alert("you've rolled one")
-                three=0;
-                three+= four;
-                $("#cum2").text(three);
+                three = 0;
+                four += three;
+                $("#cum2").text(four);
             }
             else{
-                $("#ini2").text(number2)
+                $("#ini2").text(number2);
                 one+=number2;
                 $("#cum2").text(three);
         }
